@@ -1,3 +1,8 @@
+# ⚠ Important ⚠
+Soon, a remake of this bot using TypeScript and a lot of changes.
+
+
+
 # discord-moderator-bot
 
 `npm start` to start the bot
@@ -21,9 +26,6 @@ change the name to "data.json" and put this
 Discord moderator bot
 
 ## To-do
-- TypeScript version
-- Java version
-- Python version
 - Chat modes
 - More moderation commands
 - Dashboard
